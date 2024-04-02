@@ -1,0 +1,2 @@
+in HTML each and every element have their own significance but some element
+will  not create much impact on UI but makes code efficient and SOE friendly.
